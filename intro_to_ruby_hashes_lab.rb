@@ -45,7 +45,7 @@ def monopoly_with_fourth_tier
     {
       names: {
         reading_railroad: {
-          mortage: "$100"
+          mortage_value: "$100"
         },
         pennsylvania_railroad: {
           mortage: "$200"
